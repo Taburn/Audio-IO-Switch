@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\!Projects\52 Audio IO Switch\Altium\Motherboard\Audio IO Switch - PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=audio io switch - pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=audio io switch - pcb-slotholes.txt|DrillLayers=gtl,gbl

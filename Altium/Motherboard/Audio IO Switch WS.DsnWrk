@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Audio IO Switch.PrjPCB
+[Project2]
+ProjectPath=..\Faceplate\Audio IO Switch FP.PrjPCB
