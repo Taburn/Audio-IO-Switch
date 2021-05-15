@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Audio IO Switch FP - PCB.GBR   2021-01-30  6:37:19 PM
+Gerber File Extension Report For: Audio IO Switch FP - PCB.GBR   2021-03-06  1:07:11 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,6 +15,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM4                Mechanical 4                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------

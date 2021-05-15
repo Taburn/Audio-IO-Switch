@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Audio IO Switch - PCB.GBR   2021-01-30  8:00:19 PM
+Gerber File Extension Report For: Audio IO Switch - PCB.GBR   2021-03-06  1:01:37 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,6 +15,8 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM4                Mech: Board Outline (M4)                
+.GM5                Mech: Hole Locations (M5)               
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------

@@ -2,6 +2,60 @@
 FileName = Audio IO Switch FP - PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Overlay
+      File : Audio IO Switch FP - PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Audio IO Switch FP - PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Audio IO Switch FP - PCB.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Audio IO Switch FP - PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : Audio IO Switch FP - PCB.GBO
 
@@ -10,16 +64,6 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D12
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Audio IO Switch FP - PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -34,6 +78,31 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Audio IO Switch FP - PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Audio IO Switch FP - PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
 *************************************************************
 
 *************************************************************
@@ -59,7 +128,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D14
+    D16
 *************************************************************
 
 *************************************************************
@@ -72,7 +141,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D14
+    D16
 *************************************************************
 
 *************************************************************
@@ -86,60 +155,5 @@ Generating : Top Layer
 
 Used DCodes :
     D11
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Audio IO Switch FP - PCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Audio IO Switch FP - PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Audio IO Switch FP - PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Audio IO Switch FP - PCB.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
 *************************************************************
 

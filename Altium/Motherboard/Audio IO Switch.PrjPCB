@@ -167,31 +167,43 @@ DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GM
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTL
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTO
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTP
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTS
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Audio IO Switch\NC Drill\Audio IO Switch - PCB.LDP
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.REP
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for Audio IO Switch\NC Drill\Audio IO Switch - PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Audio IO Switch\Gerber\Audio IO Switch - PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Audio IO Switch\Design Rule Check - Audio IO Switch - PCB.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -352,7 +364,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFill PDF&Image Writer
+TargetPrinter=Canon TS3300 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -821,6 +833,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
